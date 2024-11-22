@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "treatment": "Teeth Cleaning",
+    "description": "Professional teeth cleaning is a crucial preventive dental procedure designed to remove plaque and tartar buildup that cannot be eliminated by regular brushing and flossing. Our skilled dental hygienists use advanced tools and techniques to ensure your teeth are thoroughly cleaned, leaving them smooth and polished. This process helps prevent cavities, gum disease, and bad breath. Teeth cleaning also includes a comprehensive oral examination to identify any early signs of dental issues, ensuring they can be addressed promptly. Additionally, our hygienists provide personalized tips and recommendations for maintaining optimal oral hygiene at home, ensuring long-term oral health.",
+    "cost": 100,
+    "image": "https://i.ibb.co.com/Jqj6CN3/1-1.webp"
+  },
+  {
+    "id": 2,
+    "treatment": "Teeth Whitening",
+    "description": "Teeth whitening is a cosmetic dental treatment designed to brighten your smile by removing stains and discoloration from the surface of your teeth. Using state-of-the-art whitening techniques and safe, effective bleaching agents, we lighten your teeth by several shades in just one session. Whether your discoloration is caused by coffee, tea, smoking, or natural aging, our whitening procedure can help restore your teeth’s natural brightness. Teeth whitening enhances your overall appearance and boosts your confidence, ensuring you feel great about your smile during social and professional interactions. The procedure is quick, painless, and tailored to your preferences, leaving you with a radiant smile.",
+    "cost": 200,
+    "image": "https://i.ibb.co.com/mycNs6S/1-2.webp"
+  },
+  {
+    "id": 3,
+    "treatment": "Dental Fillings",
+    "description": "Dental fillings are used to restore teeth that have been damaged by cavities or minor fractures, ensuring they regain their functionality and appearance. We offer a range of high-quality materials, including composite resin and porcelain, to match the natural color of your teeth seamlessly. During the procedure, our dentists carefully remove decayed portions of the tooth, clean the affected area, and fill it with the chosen material. This not only prevents further decay but also strengthens the tooth structure. Dental fillings are a simple yet effective way to restore your smile and maintain overall dental health.",
+    "cost": 150,
+    "image": "https://i.ibb.co.com/G5m46RN/1-3.webp"
+  },
+  {
+    "id": 4,
+    "treatment": "Root Canal Treatment",
+    "description": "Root canal treatment is a specialized dental procedure aimed at saving a severely decayed or infected tooth. It involves removing the damaged pulp from inside the tooth, cleaning and disinfecting the canals, and sealing them with a durable material to prevent reinfection. This treatment is often necessary to alleviate severe toothache, swelling, or sensitivity to hot and cold. Our dentists use advanced tools and techniques to ensure the procedure is as painless and efficient as possible. After the treatment, a crown may be recommended to restore the tooth’s strength and appearance, allowing you to chew and smile confidently.",
+    "cost": 300,
+    "image": "https://i.ibb.co.com/Fh5Fwx5/1-4.webp"
+  },
+  {
+    "id": 5,
+    "treatment": "Wisdom Tooth Extraction",
+    "description": "Wisdom tooth extraction is a common dental procedure performed to remove one or more wisdom teeth that may be causing pain, crowding, or infection. Our skilled oral surgeons carefully evaluate your dental condition using X-rays to determine the most effective approach. Whether the tooth is impacted or fully erupted, the procedure is conducted with precision to minimize discomfort and promote quick healing. Post-extraction care includes detailed instructions to ensure a smooth recovery. Removing problematic wisdom teeth can prevent future complications such as misalignment of adjacent teeth, gum disease, and persistent jaw pain, helping you maintain optimal oral health.",
+    "cost": 250,
+    "image": "https://i.ibb.co.com/bd11Gtx/1-5.webp"
+  },
+  {
+    "id": 6,
+    "treatment": "Dental Implants",
+    "description": "Dental implants are the gold standard for replacing missing teeth, providing a permanent and natural-looking solution. The process involves surgically placing a titanium post into the jawbone, which acts as an artificial tooth root. Once the implant integrates with the bone, a custom-made crown is attached, restoring the appearance and function of your smile. Implants prevent bone loss, maintain facial structure, and offer unmatched stability for chewing and speaking. This innovative solution is designed to last a lifetime with proper care, making it a worthwhile investment for anyone seeking to enhance their smile and oral health.",
+    "cost": 1500,
+    "image": "https://i.ibb.co.com/X83H7JM/1-6.webp"
+  },
+  {
+    "id": 7,
+    "treatment": "Gum Disease Treatment",
+    "description": "Gum disease treatment is essential for addressing issues like gingivitis and periodontitis, which can lead to tooth loss if left untreated. Our comprehensive care includes deep cleaning techniques such as scaling and root planing to remove plaque and bacteria from beneath the gum line. In severe cases, surgical procedures may be recommended to restore gum health. Our team also educates patients on effective oral hygiene practices to prevent recurrence. Treating gum disease not only protects your teeth but also improves overall health, as research links gum health to conditions like heart disease and diabetes.",
+    "cost": 120,
+    "image": "https://i.ibb.co.com/X2gFTX0/1-7.webp"
+  },
+  {
+    "id": 8,
+    "treatment": "Veneers",
+    "description": "Veneers are thin, custom-made shells designed to cover the front surface of teeth, improving their appearance significantly. They are crafted from high-quality porcelain or composite resin to mimic the natural look and feel of real teeth. Veneers are an ideal solution for issues such as chipped, stained, or misaligned teeth, providing a flawless, uniform smile. The process involves minimal tooth preparation, making it a less invasive option compared to other cosmetic treatments. With proper care, veneers are highly durable and long-lasting, transforming your smile and boosting your confidence for years to come.",
+    "cost": 800,
+    "image": "https://i.ibb.co.com/hHFqdyp/1-8.webp"
+  }
+]
